@@ -1,0 +1,17 @@
+@"
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Node / React
+node_modules/
+build/
+.env
+.DS_Store
+
+# IDE
+.vscode/
+"@ > .gitignore
